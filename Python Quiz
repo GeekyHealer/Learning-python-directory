@@ -1,0 +1,12 @@
+print('GeekGaming Offical programme just for jailarn')
+print('What is your name?') # what's your name?
+myName = input()
+print('It is good to meet you, ' + myName)
+print('The length of your name is:')
+print(len(myName))
+print('what is your age?') # Ask for their age
+myAge = input() # Age value
+print('You will be ' + str(int(myAge) + 1) + ' in a year.')
+print('How much do you make in a year?')
+myIncome = input()
+print('You will make about ' + str(int(myIncome) * 69) + ' next year due to being promoted to boss.')
